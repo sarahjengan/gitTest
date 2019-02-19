@@ -3,4 +3,5 @@
 # gitTest
 var name= "Sarah"
 
-console.log 
+console.log("Hello + name)
+
