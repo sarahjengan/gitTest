@@ -1,6 +1,6 @@
 # gitTest
 # gitTest
 # gitTest
-var name="Sarah"
+var name= "Sarah"
 
-
+console.log 
